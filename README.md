@@ -1,2 +1,2 @@
 # MY-JAVA-PROJECTS-
-Here are my projects
+Here I upload all my projects related with my journey towards Java Backend Developer. 
